@@ -11,7 +11,7 @@ important data types:
 Be careful: some functions take an Expr as argument, and some take a KB.
 
 Logical expressions can be created with Expr or expr, imported from utils, TODO
-or with expr, which adds the capability to write a string that uses
+or with expr, which adds the capcapabilityability to write a string that uses
 the connectives ==>, <==, <=>, or <=/=>. But be careful: these have the
 opertor precedence of commas; you may need to add parens to make precendence work.
 See logic.ipynb for examples.

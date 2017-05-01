@@ -1,0 +1,5 @@
+.idea/
+.ropeproject/
+__pycache__/
+aimacode/__init__.pyc
+aimacode/__pycache__/
